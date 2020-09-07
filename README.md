@@ -1,7 +1,7 @@
 # Mengis_Fitness_App
 Mengis Fitness App
 
-# Objectiverk: Create the backend code for this Workout Tracker
+# Objective: Create the backend code for this Workout Tracker
 Objective is to complete a first version of this app by adding the server side code.  Need to add code for the models, routes and mongoos and express installations.  When done, the app will run with no errors.
 
 ## User Story
