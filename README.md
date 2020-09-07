@@ -9,6 +9,7 @@ Objective is to complete a first version of this app by adding the server side c
 
 ## Links to App
 https://mengis-fitness-tracker.herokuapp.com/
+
 https://github.com/joemengis/Mengis_Fitness_App
 
 ## Screenshots
