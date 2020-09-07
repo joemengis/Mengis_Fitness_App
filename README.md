@@ -11,6 +11,10 @@ Objective is to complete a first version of this app by adding the server side c
 
 ## Links to App
 
+## Screenshots
+
+
+
 ## Tech Used
 
 Mongoose, Express, Nodejs, Jquery, JS, HTML, CSS, Mongo
